@@ -146,9 +146,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Silas - [@Silasueber](https://twitter.com/silasueber) - email
+Silas - [@Silasueber](https://twitter.com/silasueber)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Deischox/YoutubeClipUploader.git](https://github.com/Deischox/YoutubeClipUploader.git)
 
 
 
