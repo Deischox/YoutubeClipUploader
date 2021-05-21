@@ -146,7 +146,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Silasueber - [@twitter_handle](https://twitter.com/silasueber) - email
+Silas - [@Silasueber](https://twitter.com/silasueber) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
