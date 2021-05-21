@@ -8,7 +8,7 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("-c", "--clip")
 args = parser.parse_args()
-client_id = '9qaql9wzawzvc9n4uplvm18a3t1ode'
+client_id = 'CLIENT_ID'
 
 
 if len(sys.argv) == 1:
@@ -48,7 +48,7 @@ def downloadClip(slug, title):
     except:
         print("An exception occurred")
 
-urls,title = getTopClip('daannyy','day',3)
+urls,title = getTopClip('CHANNEL_NAME','PERIOD',AMOUNT)
 print(urls,title)
 for url, t in zip(urls,title):
     downloadClip(url, t)
