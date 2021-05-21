@@ -31,7 +31,6 @@
   <p align="center">
     Automate the process of downloading Twitch Clips and uploading them to YouTube.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
