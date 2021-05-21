@@ -83,9 +83,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []Youtube-DL
-* []Google API
-* []Twitch
+* Youtube-DL
+* Google API
+* Twitch
 
 
 
